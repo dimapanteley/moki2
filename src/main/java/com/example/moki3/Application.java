@@ -1,13 +1,12 @@
-package com.example.moki2;
+package com.example.moki3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 @SpringBootApplication
-public class Moki2Application {
+public class Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Moki2Application.class, args);
-    }
+        SpringApplication.run(Application.class, args);
 
+    }
 }
